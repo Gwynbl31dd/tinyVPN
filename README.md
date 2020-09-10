@@ -90,5 +90,5 @@ potterharry:moldu@127.0.0.1:9000@youtube.com:80@9004
 You can open an interactive SSH shell 
 
 ```
-tiny VPN -g
+tinyVPN -g
 ```
